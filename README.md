@@ -52,3 +52,7 @@ number of possible hops.
 Check that your program works by running it for a few different values of A and B. Explore
 how the number of steps required to visit all sites depends on A and B. Discuss your results
 in your report.
+
+## Report
+
+In order to view report, will need to download the Report.pdf file in repository.
